@@ -1,0 +1,1 @@
+Inspired from : https://curiosity-driven.org/prolog-interpreter
